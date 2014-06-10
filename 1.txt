@@ -1,1 +1,210 @@
-这个一个测试的件
+任选2
+int aa=[1,3,4,5,6]
+投注结合 1 2
+
+取出投注集合aa的每一个
+for(i=0;i<aa.leng;i++)
+{
+   for(j=0;j<2;j++)  
+   {
+     if(aa[i].存在于数组)
+     {
+       result++
+     }
+   }
+   if(result=2)
+    {
+      last++
+    }
+
+}
+
+
+任选3
+int aa=[1,2,3,4,5]\
+for(i=0;i<aa.leng;i++)
+{
+   for(j=0;j<5;j++)  //在6 7 8的情况下 结果都是5
+   {
+     if(aa[i].存在于数组)
+     {
+       result++
+     }
+   }
+   if(result=5) 五个读相同就++
+    {
+      last++
+    }
+
+}
+
+在6 7 8 的情况下 结果都是5
+
+
+
+只选1
+int res=[1,2,3,4,5]
+
+for(i=0;i<aa.leng;i++)
+{
+if (aa[1]==res[1])
+   
+
+}
+
+
+直选2
+
+for(i=0;i<aa.leng;i++)
+{
+if (aa[1]==res[1]&&aa[2]==res[2])
+   
+}
+
+
+只选前三
+
+for(i=0;i<aa.leng;i++)
+{
+if (aa[1]==res[1]&&aa[2]==res[2]$$aa[3]==res[3]) 
+}
+
+
+
+
+助选前2
+
+int res=[1,2,3,4,5]
+
+int remp=int [res[0],res[1]]助选2的数据
+
+
+for(i=0;i<aa.leng;i++)
+{
+for(i=0;i<2;i++){
+if (aa[i]存在于数组)
+{
+   result++
+}
+}
+if(result==2)
+{
+
+last++
+}
+
+
+
+}
+
+
+
+
+
+助选前3
+
+
+
+
+
+
+
+设计数据库
+
+
+开奖时间
+01 时间 结果
+
+
+随机的结果
+rand()
+
+
+1产生11选5的效果
+
+
+
+
+
+
+drop table showlast
+
+
+
+
+
+time
+
+2013-10-30 17:49:49'
+
+
+如何插入具体的
+
+
+
+INSERT INTO `lottery_11x5`.`show` (`num`, `data`, `n1`, `n2`) VALUES ('1',now(), '111', '11');
+
+
+now()   y m d h m s 
+
+curdate() y-m-d
+
+curtime()  h-m-s
+
+
+
+对应的格式
+
+
+INSERT INTO `lottery_11x5`.`showresult` (`num`, `data`, `time`, `n1`, `n2`, `n3`, `n4`, `n5`) VALUES ('1', '2014-06-07', '17:20:14', '1', '2', '3', '4', '5');
+
+
+
+show create table "mingzi"
+
+http://cache.baiducontent.com/c?m=9d78d513d99c0aee1bb3837e7c01a66d0e24f7744cd6c76109c39238841458563010f4cb2d356407c7823c390ef50f1aa8e737012a1e65f2dedf883d8ce7c27672dd6623706bd71c4dce4cfa9301749b77cc0ff4fc59b6e0ab76c4b3d2d1dc544ec950187881ed8b5f0714c865f0033194fcdf174b&p=cb72c54ad7c91db90be296265f44&newp=8b2a9702909819f100bd9b7f070792695c16ed623690964e278acb&user=baidu&fm=sc&query=mysql+%C9%BE%B3%FD%B1%ED%B8%F1&qid=&p1=1
+
+
+有关mysql的函数
+
+http://cache.baiducontent.com/c?m=9f65cb4a8c8507ed4fece7631046893b4c4380143fd3d1027fa3c215cc7910120d37a5ee60351606d0c5787a51f11409f7b17021715871aa98cc884ed8b9932b25882537731c8d4313d91fadcf4120dc34d507a9f916b8f1b171cdb9d2a2c82520dd23066df0819c2d0603cb1fe7643bf4d29a5f642c07ca9b&p=8b2a971cc59e1ce01abd9b7d0b13a5&newp=91769a478d9114ff57ee927b4a00a5231610db2151d7d4102486c6&user=baidu&fm=sc&query=mysql+%CA%B1%BC%E4%B8%F1%CA%BD&qid=&p1=3
+
+
+
+
+
+
+
+安装ci框架
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
